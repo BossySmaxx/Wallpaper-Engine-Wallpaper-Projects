@@ -1,0 +1,25 @@
+{
+  "contentrating": "Everyone",
+  "description": "An interactive MIUI-inspired clock wallpaper. Clean and minimal design with smooth animations and live time display. Perfect for fans of MIUI aesthetics who want a modern, functional look on their desktop.",
+  "file": "index.html",
+  "general": {
+    "properties": {
+      "schemecolor": {
+        "order": 0,
+        "text": "ui_browse_properties_scheme_color",
+        "type": "color",
+        "value": "0.21176470588235294 0.8431372549019608 0.6039215686274509"
+      }
+    }
+  },
+  "preview": "preview.jpg",
+  "ratingsex": "none",
+  "ratingviolence": "none",
+  "snapshotformat": -1,
+  "snapshotoverlay": "",
+  "tags": ["Abstract"],
+  "title": "MIUI Interactive Clock Wallpaper",
+  "type": "web",
+  "version": 1,
+  "visibility": "public"
+}
